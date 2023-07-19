@@ -19,7 +19,7 @@ jobs:
           user: alextes
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Mexico_City
+          config_timezone: Europe/Amsterdam
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
